@@ -1,4 +1,5 @@
-# Bash Script de funcionalidades varias
+# **Bash Script de funcionalidades varias** 
+
 
 Este proyecto es un **script en Bash** que ofrece tres herramientas básicas para usuarios de Linux o Windows (a través de Git Bash):  
 - **Respaldar directorios**  
@@ -45,26 +46,29 @@ el directorio de Windows debe ser algo como:
 ```bash
 /c/Users/Nombre/Documentos
 ```
-Y no algo como: C:\Users\Federico\Documents
+Y no algo como: C:\Users\Nombre\Documents
 
 El script creará un archivo con la siguiente estructura:
 ```bash
-/home/fede/Backups/backup_fecha.tar.gz
+/home/nombre/Backups/backup_fecha.tar.gz
 ```
 **2. Informe del sistema**
 
 Genera un informe que incluye:
+- **Fecha actual**  
+- **Uso de CPU**  
+- **Memoria disponible y utilizada**
+- **Espacio en disco**
 
-**- Fecha actual**
-**- Uso de CPU**
-**- Memoria disponible y utilizada**
-**- Espacio en disco**
-
+  
 **3. Limpiar temporales**
 
 Elimina archivos temporales del sistema y cachés para liberar espacio en el disco.
 
-**Licencia**
+------------
+
+**Licencia:**
+
 Este software es de dominio público.
 
 Cualquiera puede usar, copiar, modificar, publicar o distribuir copias de este software, para cualquier propósito, sin restricción alguna.
