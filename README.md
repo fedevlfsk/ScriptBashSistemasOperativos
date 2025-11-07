@@ -66,7 +66,17 @@ Genera un informe que incluye:
 Elimina archivos temporales del sistema y cachés para liberar espacio en el disco.
 
 ------------
+**Cómo colaborar:**
 
+Si querés ayudar a mejorar este proyecto, podés hacerlo de las siguientes formas:
+
+- Reportar errores
+- Abrí un issue describiendo el problema. Incluí pasos para reproducirlo, el comportamiento esperado y lo que ocurre realmente.
+- Sugerir nuevas funcionalidades o mejoras
+- Enviar código (pull requests)
+- Haciendo un fork del repositorio
+  
+--------------
 **Licencia:**
 
 Este software es de dominio público.
